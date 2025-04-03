@@ -1,0 +1,49 @@
+body{
+    background-color:black;
+}
+
+div{
+    background-color:black;
+    color:green;
+    margin: 25px;
+    padding: 10px;
+    font-style: italic;
+    font-size: 10px;
+    border:groove;
+
+}
+
+footer{
+    background-color: black;
+    color: green;
+    font-size: 15px;
+
+}
+
+a{color: green;
+text-decoration: none;
+padding: 5px;
+margin: 5px;
+font-size: 30px;
+
+}
+
+li{color: green;
+font-size: 5px;
+
+}
+
+.card{
+    background-color: black;
+    border-color:green;
+
+}
+
+.card-title{
+    font-size: 35px;
+}
+
+.card-text{
+    font-size: 15px;
+}
+
